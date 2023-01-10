@@ -4,7 +4,7 @@ import UpdateForm from './UpdateForm.jsx';
 import ToDo from './ToDo.jsx';
 import { Link} from "react-router-dom";
 
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import '../App.css'
 import { useAuth } from '../context/AuthContext.js';
